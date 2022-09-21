@@ -20,9 +20,11 @@ For this analysis, use Pandas to change the "tripduration" column from an intege
 ![Screenshot (190)](https://user-images.githubusercontent.com/101649525/191386226-486eca72-483b-48c6-a690-237a8d028259.png)
 
 
-![Screenshot (191)](https://user-images.githubusercontent.com/101649525/191386236-fd38ccec-7612-4910-b59d-c0b0863fc8b4.png)
+![Screenshot (192)](https://user-images.githubusercontent.com/101649525/191387070-e0c79ae3-86d3-4e82-bb9e-2e126e5428bd.png)
 
+
+[link to dashboard](https://public.tableau.com/app/profile/carissa.mccormick/viz/NYC_Citibike_Challenge_16636984656420/Users?publish=yes)
 
 ## Summary
 
-[link to dashboard](https://public.tableau.com/app/profile/carissa.mccormick/viz/NYC_Citibike_Challenge_16636984656420/Users?publish=yes)
+
