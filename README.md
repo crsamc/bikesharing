@@ -36,7 +36,7 @@ As a follow up to the heatmap above. This map shows the same level of high usage
 Lastly, this heatmap too shows that most riders are subscribing males.
 
 
-[link to dashboard](https://public.tableau.com/app/profile/carissa.mccormick/viz/NYC_Citibike_Challenge_16636984656420/Users?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/carissa.mccormick/viz/NYC_Citibike_Challenge_16636984656420/NYCCitibikeChallenge?publish=yes)
 Tableau Public Link
 
 ## Summary
